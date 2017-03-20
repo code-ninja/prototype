@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Boilerplate for Rapid Design Prototyping",
   "scripts": {
-    "start": "node prototype.js"
+    "serve": "node prototype.js"
   },
   "repository": {
     "type": "git",

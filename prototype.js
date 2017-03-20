@@ -6,8 +6,6 @@ var port = v.serve.port || 3000;
 var assets = v && v.serve && v.serve.assets ? v.serve.assets : "public/assets"
 var html = v && v.serve && v.serve.html ? v.serve.html : "./prototypes"
 
-console.log(assets)
-
 console.log(v.name + ' ' + v.version)
 console.log("Serving at http://localhost:" + port);
 console.log("Press Ctrl + C to exit")
