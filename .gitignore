@@ -38,6 +38,6 @@ jspm_packages
 
 # Prototype
 public/assets
-bower_modules
+bower_components
 
 .DS_Store
